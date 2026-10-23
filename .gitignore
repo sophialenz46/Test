@@ -1,0 +1,9 @@
+# Ignore Python cache
+__pycache__/
+
+# Ignore Python virtual environment
+venv/
+
+# Ignore Flask instance folder
+instance/
+
